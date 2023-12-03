@@ -1,0 +1,1166 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Interior Design & Architecture",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Architecture",
+            "screenshot": "screenshots\/home-architecture.jpg",
+            "source": "templates\/home-architecture-34dee78b31529944c065e2a5e5909723.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Architecture 2",
+            "screenshot": "screenshots\/home-architecture-2.jpg",
+            "source": "templates\/home-architecture-2-7013b3994e3eaf072f87cfafa859230b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Interior",
+            "screenshot": "screenshots\/home-interior.jpg",
+            "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Interior 2",
+            "screenshot": "screenshots\/home-interior-2.jpg",
+            "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Works Page",
+            "screenshot": "screenshots\/works-page.jpg",
+            "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Works Page 2",
+            "screenshot": "screenshots\/works-page-2.jpg",
+            "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Works Page 3",
+            "screenshot": "screenshots\/works-page-3.jpg",
+            "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Work",
+            "screenshot": "screenshots\/single-work.jpg",
+            "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Work 2",
+            "screenshot": "screenshots\/single-work-2.jpg",
+            "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Work 3",
+            "screenshot": "screenshots\/single-work-3.jpg",
+            "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Architecture",
+            "screenshot": "screenshots\/about-architecture.jpg",
+            "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Architecture 2",
+            "screenshot": "screenshots\/about-architecture-2.jpg",
+            "source": "templates\/about-architecture-2-7a312ecd95ca3c911633dd9bc3543c52.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Interior",
+            "screenshot": "screenshots\/about-interior.jpg",
+            "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Interior 2",
+            "screenshot": "screenshots\/about-interior-2.jpg",
+            "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Personal",
+            "screenshot": "screenshots\/home-personal.jpg",
+            "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Personal",
+            "screenshot": "screenshots\/about-personal.jpg",
+            "source": "templates\/about-personal-0a66fb131d55b956cf7c81beedba7a51.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact-c830c35435aa0ee90f2fd1df2be372fe.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-c4d9d992a6aac0723856a1317dcd85ac.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon-eb102a64696724b3f1f81cffbe8b8ce2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2",
+            "screenshot": "screenshots\/coming-soon-2.jpg",
+            "source": "templates\/coming-soon-2-e940b8b55f4b396da6a7096a868ad117.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-7af605c942e8aff519e9eb658ec46130.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "slider1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-34dee78b31529944c065e2a5e5909723.json",
+                    "name": "Home Architecture"
+                },
+                {
+                    "source": "templates\/home-architecture-2-7013b3994e3eaf072f87cfafa859230b.json",
+                    "name": "Home Architecture 2"
+                },
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                },
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                },
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                },
+                {
+                    "source": "templates\/about-architecture-2-7a312ecd95ca3c911633dd9bc3543c52.json",
+                    "name": "About Architecture 2"
+                },
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                },
+                {
+                    "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+                    "name": "Home Personal"
+                },
+                {
+                    "source": "templates\/coming-soon-eb102a64696724b3f1f81cffbe8b8ce2.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/coming-soon-2-e940b8b55f4b396da6a7096a868ad117.json",
+                    "name": "Coming Soon 2"
+                }
+            ],
+            "filesize": 499954,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "wide1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/wide1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-34dee78b31529944c065e2a5e5909723.json",
+                    "name": "Home Architecture"
+                }
+            ],
+            "filesize": 610181,
+            "dimensions": [
+                1656,
+                662
+            ]
+        },
+        {
+            "filename": "slider3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-34dee78b31529944c065e2a5e5909723.json",
+                    "name": "Home Architecture"
+                },
+                {
+                    "source": "templates\/home-architecture-2-7013b3994e3eaf072f87cfafa859230b.json",
+                    "name": "Home Architecture 2"
+                },
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                },
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                },
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                },
+                {
+                    "source": "templates\/about-architecture-2-7a312ecd95ca3c911633dd9bc3543c52.json",
+                    "name": "About Architecture 2"
+                },
+                {
+                    "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+                    "name": "Home Personal"
+                },
+                {
+                    "source": "templates\/about-personal-0a66fb131d55b956cf7c81beedba7a51.json",
+                    "name": "About Personal"
+                }
+            ],
+            "filesize": 294726,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "slider4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-34dee78b31529944c065e2a5e5909723.json",
+                    "name": "Home Architecture"
+                },
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                },
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                }
+            ],
+            "filesize": 259568,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "bg2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/bg2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-2-7013b3994e3eaf072f87cfafa859230b.json",
+                    "name": "Home Architecture 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                }
+            ],
+            "filesize": 270553,
+            "dimensions": [
+                1170,
+                800
+            ]
+        },
+        {
+            "filename": "wide3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/wide3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-architecture-2-7013b3994e3eaf072f87cfafa859230b.json",
+                    "name": "Home Architecture 2"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/about-architecture-2-7a312ecd95ca3c911633dd9bc3543c52.json",
+                    "name": "About Architecture 2"
+                }
+            ],
+            "filesize": 365982,
+            "dimensions": [
+                1656,
+                662
+            ]
+        },
+        {
+            "filename": "tall1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                }
+            ],
+            "filesize": 135376,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "bg1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/bg1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                },
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                }
+            ],
+            "filesize": 441388,
+            "dimensions": [
+                1170,
+                800
+            ]
+        },
+        {
+            "filename": "slider2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-interior-9de4a08bd88e0be29d7e6d8aa397be4b.json",
+                    "name": "Home Interior"
+                },
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                },
+                {
+                    "source": "templates\/contact-2-c4d9d992a6aac0723856a1317dcd85ac.json",
+                    "name": "Contact 2"
+                },
+                {
+                    "source": "templates\/coming-soon-eb102a64696724b3f1f81cffbe8b8ce2.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 236302,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "wide2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/wide2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+                    "name": "Home Personal"
+                }
+            ],
+            "filesize": 122776,
+            "dimensions": [
+                1000,
+                664
+            ]
+        },
+        {
+            "filename": "ava1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/ava1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-interior-2-083754dbd141732e1f3ca24aeeb25207.json",
+                    "name": "Home Interior 2"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                }
+            ],
+            "filesize": 85823,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "slider5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                }
+            ],
+            "filesize": 268697,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                }
+            ],
+            "filesize": 7037,
+            "dimensions": [
+                500,
+                400
+            ]
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                }
+            ],
+            "filesize": 5140,
+            "dimensions": [
+                500,
+                400
+            ]
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                }
+            ],
+            "filesize": 6364,
+            "dimensions": [
+                500,
+                400
+            ]
+        },
+        {
+            "filename": "bg3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/bg3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 176788,
+            "dimensions": [
+                1170,
+                800
+            ]
+        },
+        {
+            "filename": "slider7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-5e4fd122eb508a7b762c4034cdcc8574.json",
+                    "name": "Works Page"
+                },
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                }
+            ],
+            "filesize": 209385,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "slider6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/slider6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                }
+            ],
+            "filesize": 271651,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "blog4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/blog4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/contact-2-c4d9d992a6aac0723856a1317dcd85ac.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 143324,
+            "dimensions": [
+                1200,
+                667
+            ]
+        },
+        {
+            "filename": "blog3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/blog3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                }
+            ],
+            "filesize": 115228,
+            "dimensions": [
+                1200,
+                667
+            ]
+        },
+        {
+            "filename": "blog2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/blog2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/works-page-2-20c87f4bff3e90eab8e66ade142ee988.json",
+                    "name": "Works Page 2"
+                },
+                {
+                    "source": "templates\/works-page-3-c3948260260b41596fd5dba351a8b072.json",
+                    "name": "Works Page 3"
+                },
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                }
+            ],
+            "filesize": 198804,
+            "dimensions": [
+                1200,
+                667
+            ]
+        },
+        {
+            "filename": "blog5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/blog5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-cbe54c1205e7b8d00a48a5d581fb4557.json",
+                    "name": "Single Work"
+                },
+                {
+                    "source": "templates\/contact-c830c35435aa0ee90f2fd1df2be372fe.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 220979,
+            "dimensions": [
+                1200,
+                667
+            ]
+        },
+        {
+            "filename": "gal5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/gal5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                }
+            ],
+            "filesize": 282220,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "gal6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/gal6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                }
+            ],
+            "filesize": 434926,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "gal7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/gal7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                }
+            ],
+            "filesize": 37846,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "tall2-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-2-97ace196bff8194fbeadfeb11c64c022.json",
+                    "name": "Single Work 2"
+                },
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                }
+            ],
+            "filesize": 264389,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "wide4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/wide4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-work-3-1d401f005ddddf5ac53254076145a671.json",
+                    "name": "Single Work 3"
+                },
+                {
+                    "source": "templates\/about-architecture-2-7a312ecd95ca3c911633dd9bc3543c52.json",
+                    "name": "About Architecture 2"
+                }
+            ],
+            "filesize": 225323,
+            "dimensions": [
+                1656,
+                662
+            ]
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                },
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 210554,
+            "dimensions": [
+                1000,
+                1218
+            ]
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                },
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 158340,
+            "dimensions": [
+                1000,
+                1218
+            ]
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                },
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 190931,
+            "dimensions": [
+                1000,
+                1218
+            ]
+        },
+        {
+            "filename": "team4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-architecture-97a064c508f33f906a1c1eebf8ca8ad0.json",
+                    "name": "About Architecture"
+                }
+            ],
+            "filesize": 268926,
+            "dimensions": [
+                1000,
+                1218
+            ]
+        },
+        {
+            "filename": "tall3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 205169,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "sign.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/sign.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-interior-3ce5ccdc2fcb2dbd9d7233adb93e8dd4.json",
+                    "name": "About Interior"
+                }
+            ],
+            "filesize": 5735,
+            "dimensions": [
+                199,
+                77
+            ]
+        },
+        {
+            "filename": "tall4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-interior-2-1aea03ce5783dc6ab4a3bd660c06d45a.json",
+                    "name": "About Interior 2"
+                }
+            ],
+            "filesize": 97705,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "personal.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/personal.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+                    "name": "Home Personal"
+                }
+            ],
+            "filesize": 103842,
+            "dimensions": [
+                1656,
+                1100
+            ]
+        },
+        {
+            "filename": "tall2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-personal-d1dae7d4fd94985a563fcabd045e3fc1.json",
+                    "name": "Home Personal"
+                }
+            ],
+            "filesize": 146214,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "tall5.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/tall5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-personal-0a66fb131d55b956cf7c81beedba7a51.json",
+                    "name": "About Personal"
+                }
+            ],
+            "filesize": 147245,
+            "dimensions": [
+                952,
+                1400
+            ]
+        },
+        {
+            "filename": "team3-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2018\/05\/team3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon-2-e940b8b55f4b396da6a7096a868ad117.json",
+                    "name": "Coming Soon 2"
+                }
+            ],
+            "filesize": 388523,
+            "dimensions": [
+                1000,
+                666
+            ]
+        },
+        {
+            "filename": "bg-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-14\/wp-content\/uploads\/sites\/17\/2019\/01\/bg-2-500x566.jpg",
+            "templates": [
+                {
+                    "source": "templates\/popup-7af605c942e8aff519e9eb658ec46130.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 105071,
+            "dimensions": [
+                556,
+                629
+            ]
+        }
+    ]
+}
